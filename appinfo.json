@@ -1,0 +1,46 @@
+{
+    "appKeys": {
+        "message": 1,
+        "qheight": 4,
+        "qwidth": 3,
+        "status": 0,
+        "walletcode": 2
+    },
+    "capabilities": [
+        "location"
+    ],
+    "companyName": "Sudocode.io",
+    "longName": "Paybble",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/bill.png",
+                "name": "BILL",
+                "type": "png"
+            },
+            {
+                "file": "images/icon.png",
+                "menuIcon": true,
+                "name": "LOGO",
+                "type": "png"
+            },
+            {
+                "file": "images/arrow.png",
+                "name": "ARROW",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Paybble",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "6f2067f6-624f-4366-927f-a454f3877f0f",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
